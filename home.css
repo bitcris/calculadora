@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(65, 65, 65);
+    color: rgb(212, 212, 212);
+    margin: auto;
+}
+#desc{
+    height: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+.geral{
+    border: 1px solid rgb(46, 51, 71);
+    border-radius: 8px;
+    width: 320px;
+    height: 480px;
+    margin: auto;
+    margin-top: 40px;
+    background-color: rgb(37, 37, 37);
+    padding: 8px;
+}
+.display{
+    padding: 5px;
+    height: 50px;
+    margin-top: 10px;
+    border: 1px solid rgb(63, 63, 63);
+    background-color: rgb(82, 82, 82);
+    font-family: monospace;
+    font-weight: bold;
+    color: rgb(101, 221, 175);
+    font-size: 20px;
+}
+.dress{
+
+}
+#info{
+    height: 15px;
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    float: right;
+}
+.teclado{
+    margin-top: 10px;
+}
+.teclado input{
+    margin-top: 6px;
+}
+.bloco1 input{
+    background-color: rgb(255, 126, 126);
+}
+.bloco2 input{
+    width: 28px;
+}
+.bloco3 input{
+    width: 28px;
+}
+#ig{
+    background-color: rgb(108, 216, 108);
+    width: 60px;
+}
